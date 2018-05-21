@@ -1,0 +1,9 @@
+Package: com.oskarw.swipeupmute
+Name: SwipeUpMute
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove swipe up text & lockscreen homebar
+Maintainer: Oskar Wirga <oskar@wirga.com>
+Author: Oskar Wirga
+Section: Tweaks
